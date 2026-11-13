@@ -1,0 +1,13 @@
+:HL["/_next/static/chunks/00560e-fhg0xz.css","style"]
+:HL["/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97ea1d7b8ac40ba2-s.p.1-qpv3jvnkkyl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9eff0a3f1ba11d74-s.p.3aak_kra40y8r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fbb7028efdf70529-s.p.1_0gbi-gsbqmd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/media/site/4bf5dcab-e713-4f8c-929f-a1e35e1cea17/1320.webp","image",{"imageSrcSet":"/media/site/4bf5dcab-e713-4f8c-929f-a1e35e1cea17/640.webp 640w, /media/site/4bf5dcab-e713-4f8c-929f-a1e35e1cea17/1280.webp 1280w, /media/site/4bf5dcab-e713-4f8c-929f-a1e35e1cea17/1320.webp 1320w","imageSizes":"(min-width: 1024px) 45vw, 100vw","fetchPriority":"high"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"kategoria","t":"d","k":"dhoma-ndenjeje","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"projektet","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"b":"DxHEKk0-z_QkZ93mLKNk8","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
